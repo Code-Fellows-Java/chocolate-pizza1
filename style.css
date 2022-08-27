@@ -4,7 +4,7 @@ header {
     justify-content: space-between;
     border-radius: 10px;
     background-color: rgb(255, 255, 255);
-    max-width: 1200px;
+    max-width: 901px;
     margin: 0 auto;
     margin-bottom: 20px;
 
@@ -25,9 +25,13 @@ header {
   }
   h1 {
     font-size: 30px;
+    font-family: 'Lobster', cursive;
   }
   h2 {
-  
+    font-family: 'Barlow Condensed', sans-serif;
+  }
+  sub {
+    font-family: 'Barlow Condensed', sans-serif;
   }
   .link-img {
     display: flex;
@@ -83,7 +87,7 @@ footer {
     justify-content: space-between;
     border-radius: 10px;
     background-color: rgb(255, 255, 255);
-    max-width: 1200px;
+    max-width: 901px;
     margin: 0 auto;
     margin-bottom: 20px;
 
